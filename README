@@ -8,6 +8,7 @@ Dependencies:
     don't have a GPU at the moment and it's the best my Ivy Bridge can do);
   - GLEW
   - GLFW
+  - GLM
   - SOIL
 
 You'll also need a C++11 compiler and GNU Make.
