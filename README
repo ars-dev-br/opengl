@@ -5,7 +5,7 @@ best way to abstract it, yet.
 
 Dependencies:
   - OpenGL 3.1 (I should be using at least 3.2 according to the material, but I
-    don't have a GPU at the moment and it's the best my Ivy Bridge can do);
+    don't have a GPU at the moment and it's the best my Sandy Bridge can do);
   - GLEW
   - GLFW
   - GLM
